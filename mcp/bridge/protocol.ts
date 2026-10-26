@@ -1,6 +1,6 @@
 /**
- * Agent bridge protocol v1 - KEEP IN SYNC with lib/bridge/protocol.ts
- * in the GRAVENX studio repo. Bump BRIDGE_PROTOCOL_V on any wire change.
+ * Agent bridge protocol v1 - KEEP IN SYNC with bridge/protocol.ts
+ * in the gravenx-mcp repo. Bump BRIDGE_PROTOCOL_V on any wire change.
  */
 
 export const BRIDGE_PROTOCOL_V = 1;
