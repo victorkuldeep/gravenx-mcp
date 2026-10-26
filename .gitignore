@@ -1,0 +1,6 @@
+node_modules/
+dist/
+gravenx-workspace/
+*.tsbuildinfo
+coverage/
+.DS_Store
